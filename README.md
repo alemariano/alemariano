@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para um perfil GitHub, criado com base no seu currículo:
-
----
-
 # 👨‍💻 Alexandre Mariano
 
 **Analista de Sistemas BI / Data Analytics**  
